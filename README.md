@@ -5,7 +5,7 @@
 ## 遊び方
  1. python3をダウンロード
  2. [pyxel](https://github.com/kitao/pyxel/blob/master/README.ja.md) をダウンロード
- 3. このイポジトリをクローン
+ 3. このリポジトリをクローン
  4. ターミナルに　python3 tetris.py に打ち込む
   
 ## 操作の方法
